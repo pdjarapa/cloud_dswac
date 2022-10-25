@@ -4,18 +4,18 @@
 
 Los cloud computing segun su privacidad puede ser privada o publica o su combinacion.
 
-* Nube pública
+* **Nube pública**
 
 Vende servicios a cualquier persona en Internet, es decir proporciona sus recursos de una forma abierta.
 
-* Nube privada
+* **Nube privada**
 
 Centro de datos que suministra servicios alojados a un número limitado de personas.
 
-* Nube híbrida
+* **Nube híbrida**
 
 Compuesta por dos o más infraestructuras de nubes distintas que permanecen como entidades únicas, pero que están unidas por una tecnología estandarizada o propietaria.
 
-* Nube Comunitaria
+* **Nube Comunitaria**
 
 Diferentes empresas u organizaciones reúnen en pool sus recursos en la nube para resolver un problema común.
