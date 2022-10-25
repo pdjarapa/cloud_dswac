@@ -10,4 +10,4 @@
 
 * https://empresas.blogthinkbig.com/edge-computing-que-es/
 
-![005](https://github.com/pdjarapa/cloud_dswac/raw/main/media/cloud-c.jpg)
+![009](https://github.com/pdjarapa/cloud_dswac/raw/main/media/cloud-c.jpg)
