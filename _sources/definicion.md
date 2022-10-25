@@ -1,4 +1,4 @@
-# Definicion de Cloud Computing
+# Definición de Cloud Computing
 
 ![000](https://github.com/pdjarapa/cloud_dswac/raw/main/media/Cloud_Computing2.jpg)
 

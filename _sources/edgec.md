@@ -13,3 +13,5 @@ El Edge Computing es un tipo de arquitectura de Tecnología de la Información (
 * Control de riesgos
 
 * Distribución
+
+![Beneficios](https://github.com/pdjarapa/cloud_dswac/raw/main/doc/cl-four-key-benefits-edge-computing-ebook-f28612-202105-en.pdf "Beneficios Edge")
