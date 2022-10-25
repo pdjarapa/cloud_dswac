@@ -6,3 +6,5 @@ root: intro
 chapters:
 - file: definicion
 - file: tipos
+- file: categoria
+- file: bibliografia
