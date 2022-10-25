@@ -1,8 +1,0 @@
-pip install jupyter-book
-
-jupyter-book
-
-jupyter-book create cloud_dswac
-
-jupyter-book build cloud_dswac
-
