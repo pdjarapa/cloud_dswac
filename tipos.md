@@ -1,6 +1,6 @@
-# Tipos de computación en la nube
+# Clasificación de computación en la nube
 
-![001](https://github.com/pdjarapa/cloud_dswac/raw/main/media/cloud-computing.png)
+![002](https://github.com/pdjarapa/cloud_dswac/raw/main/media/cloud-computing.png)
 
 En cuanto a los modelos de servicio, las soluciones de cloud computing se pueden clasificar en:
 
@@ -16,4 +16,4 @@ Este modelo puede aprovechar las ventajas de la computación en la nube mientras
 
 La empresa tiene el control absoluto sobre la nube, por lo tanto deberá configurar las máquinas, elegir la capacidad de memoria y procesador. Es la solución más personalizada y a medida de la empresa, ya que solamente contrata la capacidad de almacenamiento y el proceso en bruto.
 
-![002](https://github.com/pdjarapa/cloud_dswac/raw/main/media/iaas-paas-saas.png)
+![003](https://github.com/pdjarapa/cloud_dswac/raw/main/media/iaas-paas-saas.png)

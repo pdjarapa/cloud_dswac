@@ -45,3 +45,5 @@ De una manera simple, la computación en la nube (cloud computing) es una tecnol
 + El modelo SaaS, restringe el uso de versiones anteriores de software.
 
 + Pérdida de autonomía frente al proveedor en la nube, después de efectuar un pago inicial por el uso de un paquete tradicional.
+
+![001](https://github.com/pdjarapa/cloud_dswac/raw/main/media/cloud2.png)
