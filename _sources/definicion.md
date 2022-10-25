@@ -35,6 +35,7 @@ De una manera simple, la computación en la nube (cloud computing) es una tecnol
 
 - Escalabilidad
 
+
 ## Desventajas de cloud computing
 
 + Menor control sobre la información.
