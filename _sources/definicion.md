@@ -2,8 +2,9 @@
 
 ![000](https://github.com/pdjarapa/cloud_dswac/raw/main/media/Cloud_Computing2.jpg)
 
-¿Qué es Cloud Computing? 
-De una manera simple, la computación en la nube (cloud computing) es una tecnología que permite acceso remoto a softwares, almacenamiento de archivos y procesamiento de datos por medio de Internet, siendo así, una alternativa a la ejecución en una computadora personal o servidor local.
+¿Qué es Cloud Computing?
+
+Es una tecnología que permite acceso remoto a programas, almacenamiento de archivos y procesamiento de datos por medio de Internet, siendo una alternativa a la ejecución en una computadora personal o servidor local.
 
 ## Ventajas del cloud computing
 
